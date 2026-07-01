@@ -129,4 +129,6 @@ Design and implement a relational database using MS SQL that supports the restau
 
 - Push SQL scripts (schema creation, seeding DMLs, queries, procedures, and trigger) to a GitHub repository. Incorporate a README detailing the project, schema, and rationale behind each query/procedure.
 
+  ERD -->
+
   <img width="4491" height="2469" alt="ERD" src="https://github.com/user-attachments/assets/8a18a646-2ad3-4697-bc13-5a4b5383337f" />
