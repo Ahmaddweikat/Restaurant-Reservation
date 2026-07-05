@@ -1,3 +1,5 @@
+# Restaurant Reservation Management System
+
 A relational database built in MS SQL Server to support restaurant operations including reservations, orders, menu management, and employee tracking.
 
 ---
@@ -18,7 +20,7 @@ Design and implement a relational database using MS SQL that supports the restau
 
 Designed using ERDPlus.
 
-<img width="4491" height="2469" alt="ERD" src="https://github.com/user-attachments/assets/d24e40d8-9db9-4a78-b0d7-b565a8c4c631" />
+<img width="4491" height="2469" alt="ERD" src="https://github.com/user-attachments/assets/076fa1b5-6e9d-44c3-b787-58e72ce054e3" />
 
 ### Relationships Summary
 
